@@ -1,6 +1,6 @@
 # TypeScript Quick Review
 
-It's a quick review about TypeScript, its fundaments and diffenrents against JavaScript.
+It's a quick review of TypeScript, its basics, and how it differs from JavaScript.
 
 ## Usage
 Just read it.
