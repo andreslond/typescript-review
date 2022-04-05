@@ -1,5 +1,6 @@
 //Classes
-
+//In JavaScript the classes are more complex to be defined. 
+//To add features is necessary modify the prototype functions.
 class Pizza {
     public tomato: boolean = false;
     public chesse: string = "";
